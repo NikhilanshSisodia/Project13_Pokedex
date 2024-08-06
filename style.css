@@ -81,7 +81,7 @@ input:focus-visible {
 
 body {
   margin: 0;
-  height: 100vh;
+  height: 100dvh;
   width: 100vw;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
